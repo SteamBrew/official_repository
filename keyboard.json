@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "1",
+        "name": "SteamGreen",
+        "url": "https://raw.githubusercontent.com/BenMagill/SteamDeckKeyboardThemes/main/SteamGreen.css"
+    },
+    {
+        "_id": "2",
+        "name": "Dark",
+        "url": "https://raw.githubusercontent.com/BenMagill/SteamDeckKeyboardThemes/main/Dark.css"
+    },
+    {
+        "_id": "3",
+        "name": "Pumpkin",
+        "url": "https://raw.githubusercontent.com/BenMagill/SteamDeckKeyboardThemes/main/Pumpkin.css"
+    }
+]

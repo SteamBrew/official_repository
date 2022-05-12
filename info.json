@@ -1,0 +1,9 @@
+{
+    "version": "v1",
+    "supports": {
+        "keyboard": true,
+        "plugins": false,
+        "soundPacks": false,
+        "ui": false
+    }
+}
