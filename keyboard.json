@@ -2,16 +2,16 @@
     {
         "_id": "1",
         "name": "SteamGreen",
-        "url": "https://raw.githubusercontent.com/BenMagill/SteamDeckKeyboardThemes/main/SteamGreen.css"
+        "url": "https://raw.githubusercontent.com/SteamBrew/themes/main/SteamGreen.css"
     },
     {
         "_id": "2",
         "name": "Dark",
-        "url": "https://raw.githubusercontent.com/BenMagill/SteamDeckKeyboardThemes/main/Dark.css"
+        "url": "https://raw.githubusercontent.com/SteamBrew/themes/main/Dark.css"
     },
     {
         "_id": "3",
         "name": "Pumpkin",
-        "url": "https://raw.githubusercontent.com/BenMagill/SteamDeckKeyboardThemes/main/Pumpkin.css"
+        "url": "https://raw.githubusercontent.com/SteamBrew/themes/main/Pumpkin.css"
     }
 ]
